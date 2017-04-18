@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoTest</string>
+    <string name="stop">stop</string>
+    <string name="start">start</string>
+</resources>
